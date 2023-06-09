@@ -3,8 +3,6 @@
 
 Soy Ingeniero en Tecnologías de la Información desde hace un año (aunque ya tengo poco mas de 3 años laborando).
 
-<br/>
-
 ---
 
 ## ⭐️ Tecnologías donde me he desenvuelto:
@@ -44,14 +42,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 <img align="left" alt="kubernetes" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
 
 <br/>
-<br/>
 
-### Proyecto(s) donde he colaborado
+---
+### Proyecto(s) donde he colaborado:
 
 
 <details>
  <summary><a href="https://bukero.mx/">📖 Bukero</a></summary>
-  Bukero es una aplicación movíl que tiene como onjetivo incentivar la lectura tanto en niños, adolescentes y adultos que cuenta con multiples funcionalidades en las que principalmente te vez recompensado por leer! En este proyecto participe en la fase inicial de desarrollo, tanto en Frontend como en Backend 😃.
+  Bukero es una aplicación movíl que tiene como objetivo incentivar la lectura tanto en niños, adolescentes y adultos que cuenta con multiples funcionalidades en las que principalmente te vez recompensado por leer! En este proyecto participe en la fase inicial de desarrollo, tanto en Frontend como en Backend 😃.
 </details>
 
 <br/>
